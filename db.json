@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post by ID 1",
+      "body": "post body by ID 1",
+      "publishedAt": "2021-01-16"
+    },
+    {
+      "id": "2",
+      "title": "Post by ID 2",
+      "body": "post body by ID 2",
+      "publishedAt": "2021-01-16"
+    },
+    {
+      "id": "3",
+      "title": "Post by ID 3",
+      "body": "post body by ID 3",
+      "publishedAt": "2021-01-16"
+    },
+    {
+      "title": "asdasd",
+      "body": "asdsd",
+      "publishedAt": "2021-01-21",
+      "id": "s5HLFlg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "name": "Test",
+      "email": "asdasd@asdasd.com",
+      "id": "uX4h8C7"
+    },
+    {
+      "email": "asdasddasd2",
+      "name": "asdasd",
+      "id": "ZioF9jv"
+    }
+  ]
+}
